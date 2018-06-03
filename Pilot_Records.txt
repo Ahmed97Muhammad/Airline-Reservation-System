@@ -1,0 +1,11 @@
+		PILOT'S RECORD NUMBER: 1
+
+=====================================================
+PILOT'S NAME:  ahmed
+PILOT'S NIC:  12
+PILOT'S AGE:  12
+PILOT'S ADRESS:  12
+PILOT'S PHONE NUMBER:  12212
+PILOT'S SALARY:  143988
+PILOT'SID:   123
+=====================================================
